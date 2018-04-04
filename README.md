@@ -2,4 +2,4 @@
 To deal with Machine Learning algorithms, I just use Python and practice it!
 
 ## Notice
-> This is just only for my studying, so it may be possible to have a bit wrong information :)
+> I have a blog to explain the code and statistics, so there are some more details here : http://uhback03.wordpress.com
